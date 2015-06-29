@@ -96,7 +96,12 @@ textarea {
    ========================================================================== */
 
 body {
-  background-color: green;
+  background-color: #ebe5e7;
+  color:#653f4c;
+}
+
+.glyphicon {
+  color:#993f4c;
 }
 
 
